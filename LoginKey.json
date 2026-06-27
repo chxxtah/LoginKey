@@ -1,16 +1,16 @@
 [
   {
     "id": "c8edf154593f9d5a",
-    "username": "test1",
-    "password": "test1",
+    "username": "test321",
+    "password": "test321",
     "expiresAt": "2027-12-31",
     "allowOffline": true
   },
   {
-    "id": "slot",
+    "id": "c8edf154593f9d5a",
     "username": "user2",
     "password": "pass2",
-    "expiresAt": "2027-12-30",
-    "allowOffline": false
+    "expiresAt": "2027-12-31",
+    "allowOffline": true
   },
 ]
