@@ -27,4 +27,11 @@
     "expiresAt": "2028-1-31",
     "allowOffline": false
   },
+  {
+    "id": "85bb263126f41121",
+    "username": "user1",
+    "password": "user1",
+    "expiresAt": "2027-7-31",
+    "allowOffline": true
+  },
 ]
